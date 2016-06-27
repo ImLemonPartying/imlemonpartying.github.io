@@ -1,0 +1,29 @@
+Package: com.imlemonpartying.minimalisticbatterydots
+
+Version: 1.0
+
+Architecture: iphoneos-arm
+
+Maintainer: ImLemonPartying <ImLemonPartying@gmail.com>
+
+Depends: Alkaline
+
+Filename: debs//com.imlemonpartying.minimalisticbatterydots.deb
+
+Size: <deb in bytes>
+
+MD5sum: <md5 hash of deb>
+
+SHA1: <sha1 hash of deb>
+
+SHA256: <sha256 of deb>
+
+Section: Themes (Alkaline)
+
+Description: Minimalistic Battery Dots
+
+Author: ImLemonPartying <ImLemonPartying@gmail.com>
+
+Depiction: http://ImLemonPartying.github.io/depic/minimalisticbatterydots.messages/index.html
+
+Name: Minimalistic Battery Dots
